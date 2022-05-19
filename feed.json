@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Shakespeare",
+    "description": "",
+    "home_page_url": "https://wendy-test.github.io/digital_shakespeare",
+    "feed_url": "https://wendy-test.github.io/digital_shakespeare/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wendy Perla Kurtz"
+    },
+    "items": [
+    ]
+}

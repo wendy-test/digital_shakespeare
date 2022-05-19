@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://wendy-test.github.io/digital_shakespeare/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://wendy-test.github.io/digital_shakespeare/</loc>
+</url>
+<url>
+<loc>https://wendy-test.github.io/digital_shakespeare/meet-the-team.html</loc>
+<lastmod>2022-05-19T14:19:24-07:00</lastmod>
+<image:image>
+<image:loc>https://wendy-test.github.io/digital_shakespeare/media/posts/2/Shakespeare_signature_6.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://wendy-test.github.io/digital_shakespeare/media/posts/2//Jane-Bruin-copy.jpg</image:loc>
+<image:title><![CDATA[Picture of Jane Bruin]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://wendy-test.github.io/digital_shakespeare/welcome-to-digital-shakespeare.html</loc>
+<lastmod>2022-05-19T13:52:21-07:00</lastmod>
+</url>
+</urlset>
